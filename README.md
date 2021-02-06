@@ -3,9 +3,9 @@
 ### I'am Python Developer,who love to code.
 ### Currently Learning React
 
-. 🔭 I’m currently working on React,javascript,Firebase
-. 👯 I’m looking to collaborate with other developers
-. 💬 Ask me about Pyhton and tech related stuff
+. 🔭 I’m currently working on React,javascript,Firebase <br>
+. 👯 I’m looking to collaborate with other developers <br>
+. 💬 Ask me about Pyhton and tech related stuff <br>
 . ⚡ 2021 Goals:to learn react completely and implement my own projects
 
 ### Languages and Tools
