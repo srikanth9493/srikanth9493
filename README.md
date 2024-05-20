@@ -1,7 +1,7 @@
 ## Hi there,I'm Srikanth 👋 
 
-### I'am Python Developer,who love to code.
-### Currently Learning React
+### I'am Frontend Developer with 4.8 + yoe, who love to code.
+### Core skills: React,JS,HTML,CSS, Redux
 
 . 🔭 I’m currently working on React,javascript,Firebase <br>
 . 👯 I’m looking to collaborate with other developers <br>
